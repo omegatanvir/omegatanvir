@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Tanvir Ahmed</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
 <p>Thank you for checking out my profile! Hi, This is Tanvir A Professional Web Developer, WooCommerce & Shopify Expert with over 4+ years of experience in designing and developing eCommerce websites.<br><br>
 
