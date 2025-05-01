@@ -1,5 +1,14 @@
-<h1 align="center">Hi 👋, I'm Omega Tanvir</h1>
+<h1 align="center">Hi 👋, I'm Md Tanvir Ahmed</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+
+<p>Thank you for checking out my profile! Hi, This is Tanvir A Professional Web Developer, WooCommerce & Shopify Expert with over 4+ years of experience in designing and developing eCommerce websites.<br><br>
+
+I design and develop WooCommerce & Shopify websites for small and medium eCommerce businesses. I will take care of your website from scratch to the advanced stage. <br><br>
+
+I enjoy working on WooCommerce and Shopify projects, and committed to delivering high-quality results. Hire me today, and I will deliver results, not excuses! You can also message me for a free consultation. <br><br>
+
+Let's work together and start working on your dream website!
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
